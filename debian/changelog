@@ -1,6 +1,7 @@
 gtk-doc (1.21-2pexip1) pexip; urgency=low
 
   * Prepare Pexip packaging
+  * debian/control: Remove dependency on highlight
 
  -- John-Mark Bell <jmb@pexip.com>  Wed, 03 Jun 2015 17:28:50 +0000
 
